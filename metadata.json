@@ -1,0 +1,6 @@
+{
+  "name": "CleanBBMP - Bengaluru Waste Management & Civic Portal",
+  "description": "AI-powered civic waste reporting, geolocation tagging, and BBMP field supervisor dashboard for Bengaluru.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
